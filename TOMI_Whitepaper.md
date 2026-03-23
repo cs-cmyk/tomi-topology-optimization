@@ -2,11 +2,9 @@
 
 ## A Reinforcement Learning Framework for Automated Antenna Tilt and Azimuth Optimization in LTE Networks
 
-### Whitepaper Brief
+**Author:** Chirag Shinde (chirag.m.shinde@gmail.com)
 
----
-
-## Abstract
+## Summary
 
 Mobile network operators face a persistent challenge: optimizing the physical configuration of thousands of antennas to maximize signal quality, minimize interference, and maintain seamless coverage across diverse geographic environments. Conventional approaches rely on manual drive testing, expert judgment, and rule-based planning tools — methods that scale poorly with network density and cannot adapt to changing traffic patterns.
 
