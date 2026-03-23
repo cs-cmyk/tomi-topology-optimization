@@ -708,3 +708,20 @@ train_qlearner(
 ```
 
 The Q-learner's `PropogatorCNN2` loads `clutter_4ch.npy`, encodes it once through the static clutter encoder at startup, and caches the features for all subsequent forward passes. Without `clutter_dir`, the CNN operates in 8-channel mode (environment only).
+
+## License
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+Copyright (c) 2026- Chirag Shinde
+
+You are free to:
+- Share: copy and redistribute the material in any medium or format
+- Adapt: remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution: You must provide appropriate credit
+- Non-Commercial: You may not use the material for commercial purposes
+- ShareAlike: If you remix, you must distribute under the same license
+
+Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
